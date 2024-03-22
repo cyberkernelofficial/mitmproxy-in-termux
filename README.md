@@ -3,12 +3,24 @@ This guide will walk you through the step-by-step process of installing mitmprox
 mitmproxy is a versatile tool used for performing man-in-the-middle attacks, inspecting and modifying network traffic, and debugging web applications. 
 By following these instructions, you can seamlessly set up mitmproxy on your Android device running Termux.
 
+# Table of Content
+1. [Prerequisites](#prerequisites)
+2. [Video Tutorial](#video-tutorial)
+3. [Installation Steps](#installation-steps)
+4. [Additional Information](#additional-information)
+5. [Troubleshooting](#troubleshooting)
+6. [Feedback and Support](#feedback-and-support)
+
 ## Prerequisites
 Before proceeding with the installation, ensure that you have the following prerequisites:
 - An Android device running Termux.
 - Internet connectivity to download packages.
 - Basic understanding of command-line interfaces.
 - Adequate storage space on your device for the installation.
+
+## Video Tutorial
+For a visual guide on installing mitmproxy in Termux, watch the YouTube video tutorial:
+[![How to Install mitmproxy in Termux](http://img.youtube.com/vi/CMi-MkwCloY/0.jpg)](http://www.youtube.com/watch?v=CMi-MkwCloY "How to Install mitmproxy in Termux")
 
 ## Installation Steps
 ### Step 1: Update and Upgrade Termux
