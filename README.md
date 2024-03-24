@@ -22,6 +22,9 @@ Before proceeding with the installation, ensure that you have the following prer
 For a visual guide on installing mitmproxy in Termux, watch the YouTube video tutorial:
 [![How to Install mitmproxy in Termux](http://img.youtube.com/vi/CMi-MkwCloY/0.jpg)](http://www.youtube.com/watch?v=CMi-MkwCloY "How to Install mitmproxy in Termux")
 
+Willing to know how to setup mitmproxy in termux OR how to install CA certificate in android? Here is step by step tutorial:
+[![How to Setup mitmproxy in Termux](http://img.youtube.com/vi/o-iypVqI_P8/0.jpg)](http://www.youtube.com/watch?v=o-iypVqI_P8 "How to setup mitmproxy in Termux")
+
 ## Installation Steps
 ### Step 1: Update and Upgrade Termux
 1. Open your Termux application.
